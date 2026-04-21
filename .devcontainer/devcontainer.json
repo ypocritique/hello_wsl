@@ -9,7 +9,11 @@
                 "usernamehw.errolens",
                 "fill-labs.dependi",
                 "GitHub.copilot-chat"
-            ]
+            ],
+            "settings": {
+                "rust-analyzer.cargo.autoreload": true
+               
+            }
         }
     } 
 }
