@@ -1,11 +1,4 @@
-use std::result;
 
-
-
-
-                     
-
-// the same code with mutable variables     
 fn main() {
     let proceed = true;
     if proceed {
